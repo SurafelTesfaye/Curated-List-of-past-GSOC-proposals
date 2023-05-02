@@ -1,1 +1,1 @@
-# accepted_previous_GSOC_proposals
+Curated list of past Accepted GSCOC proposals
